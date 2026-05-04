@@ -4,7 +4,7 @@
 - Caleb Rivers – (https://github.com/CRivers2805/MIST_4610_21482_G5_CMR_2)
 - Catherine Lusick  
 - Emmy Nguyen – (https://github.com/emmyn1/MIST-4610-Group5-Project2)  
-- Diyaa Patel
+- Diyaa Patel - (https://github.com/Diyaa-P13/MIST4610-Group5-Project2.git)
 
 ## Dataset Description 
 
@@ -12,7 +12,7 @@
 
 Question: How did age-adjusted methadone overdose death rates per 100,000 population compare between males and females from 2000 to 2015?
 
-This question was chosen because of the biological and social differences between males and females can significantly influence how the body processes opioids like methadone. It also shows how likely each group is to seek treatment. By isolating genders as a variable, we are able to determine whether intervention efforts should be tailored differently depending on gender.
+This question was chosen because the biological and social differences between males and females can significantly influence how the body processes opioids like methadone. It also shows how likely each group is to seek treatment. By isolating genders as a variable, we are able to determine whether intervention efforts should be tailored differently depending on gender.
 
 <img width="907" height="464" alt="image" src="https://github.com/user-attachments/assets/732d3caa-85dd-4524-9bf9-3ab00f2d0dc2" />
 
